@@ -3,8 +3,8 @@
 Prerequisites
 Docker and Docker Compose installed.
 ```
-    git clone <your-repo-url>
-    cd <project-folder>
+    git clone git@github.com:ivanova-zz/celery-test.git
+    cd celery-test
     cp .env_example .env
     docker-compose up -d
 ```
