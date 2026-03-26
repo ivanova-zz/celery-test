@@ -1,0 +1,6 @@
+celery
+redis
+requests
+uvicorn
+fastapi
+pytest

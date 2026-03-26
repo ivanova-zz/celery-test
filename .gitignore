@@ -1,0 +1,5 @@
+/venv
+*.pyc
+.idea
+.env
+users_data.csv
